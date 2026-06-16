@@ -1,10 +1,155 @@
 {
   "state_id": "rak",
   "state_name": "Ras Al Khaimah",
+  "currency": "AED",
   "fines": [
     {
+      "violation": "Speeding",
+      "description": "Exceeding posted speed limit",
+      "amount": "AED 300",
+      "points": "0 BLACK POINTS",
+      "warning": null,
+      "icon_type": "speedometer",
+      "icon_color": "#ff6b6b"
+    },
+    {
+      "violation": "Speeding 20-40 km/h Over Limit",
+      "description": "Exceeding speed limit",
+      "amount": "AED 600",
+      "points": "0 BLACK POINTS",
+      "warning": null,
+      "icon_type": "speedometer",
+      "icon_color": "#ff6b6b"
+    },
+    {
+      "violation": "Speeding More Than 60 km/h",
+      "description": "Dangerous speeding",
+      "amount": "AED 2000",
+      "points": "12 BLACK POINTS",
+      "warning": "Vehicle may be impounded.",
+      "icon_type": "speedometer",
+      "icon_color": "#ff0000"
+    },
+    {
+      "violation": "Jumping Red Light",
+      "description": "Passing traffic signal while red",
+      "amount": "AED 1000",
+      "points": "12 BLACK POINTS",
+      "warning": "Vehicle impounded.",
+      "icon_type": "traffic-light",
+      "icon_color": "#fa9e05"
+    },
+    {
+      "violation": "Using Mobile Phone While Driving",
+      "description": "Using phone while driving",
+      "amount": "AED 800",
+      "points": "4 BLACK POINTS",
+      "warning": null,
+      "icon_type": "phone",
+      "icon_color": "#4dabf7"
+    },
+    {
+      "violation": "Not Wearing Seat Belt",
+      "description": "Driver or passenger without seat belt",
+      "amount": "AED 400",
+      "points": "4 BLACK POINTS",
+      "warning": null,
+      "icon_type": "seatbelt",
+      "icon_color": "#51cf66"
+    },
+    {
+      "violation": "Dangerous Driving",
+      "description": "Driving in dangerous manner",
+      "amount": "AED 2000",
+      "points": "23 BLACK POINTS",
+      "warning": "Vehicle impounded.",
+      "icon_type": "warning",
+      "icon_color": "#e03131"
+    },
+    {
+      "violation": "Driving Against Traffic",
+      "description": "Driving opposite direction",
+      "amount": "AED 600",
+      "points": "6 BLACK POINTS",
+      "warning": null,
+      "icon_type": "road",
+      "icon_color": "#20c997"
+    },
+    {
+      "violation": "Wrong Overtaking",
+      "description": "Illegal overtaking",
+      "amount": "AED 600",
+      "points": "6 BLACK POINTS",
+      "warning": null,
+      "icon_type": "overtake",
+      "icon_color": "#20c997"
+    },
+    {
+      "violation": "Parking Violation",
+      "description": "Parking in restricted area",
+      "amount": "AED 500",
+      "points": "0 BLACK POINTS",
+      "warning": null,
+      "icon_type": "parking",
+      "icon_color": "#845ef7"
+    },
+    {
+      "violation": "Parking On Footpath",
+      "description": "Parking on pedestrian area",
+      "amount": "AED 400",
+      "points": "0 BLACK POINTS",
+      "warning": null,
+      "icon_type": "parking",
+      "icon_color": "#845ef7"
+    },
+    {
+      "violation": "Expired Vehicle Registration",
+      "description": "Driving with expired registration",
+      "amount": "AED 500",
+      "points": "4 BLACK POINTS",
+      "warning": null,
+      "icon_type": "file-warning",
+      "icon_color": "#ff922b"
+    },
+    {
+      "violation": "Driving Without Insurance",
+      "description": "No valid vehicle insurance",
+      "amount": "AED 500",
+      "points": "4 BLACK POINTS",
+      "warning": null,
+      "icon_type": "shield",
+      "icon_color": "#495057"
+    },
+    {
+      "violation": "No Motorcycle Helmet",
+      "description": "Motorcycle rider without helmet",
+      "amount": "AED 500",
+      "points": "4 BLACK POINTS",
+      "warning": null,
+      "icon_type": "helmet",
+      "icon_color": "#339af0"
+    },
+    {
+      "violation": "Throwing Waste From Vehicle",
+      "description": "Throwing objects on road",
+      "amount": "AED 1000",
+      "points": "6 BLACK POINTS",
+      "warning": null,
+      "icon_type": "trash",
+      "icon_color": "#868e96"
+    },
+    {
+      "violation": "Vehicle Without Number Plate",
+      "description": "Driving without license plate",
+      "amount": "AED 3000",
+      "points": "23 BLACK POINTS",
+      "warning": "Vehicle impounded.",
+      "icon_type": "car",
+      "icon_color": "#ff0000"
+    },
+    {
       "violation": "General Violation",
-      "description": "Federal traffic law",
+      "description": "Federal traffic law violation",
       "amount": "AED 400",
       "points": "4 BLACK POINTS",
       "warning": null,
