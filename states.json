@@ -3,7 +3,7 @@
     {
       "id": "dubai",
       "name": "Dubai",
-      "data_source": "fines_data.json"
+      "data_source": "https://salarycalculator.kaziemamuluae.workers.dev/State/dubai.json"
     },
     {
       "id": "abu_dhabi",
