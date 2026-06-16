@@ -1,0 +1,39 @@
+{
+  "states": [
+    {
+      "id": "dubai",
+      "name": "Dubai",
+      "data_source": "fines_data.json"
+    },
+    {
+      "id": "abu_dhabi",
+      "name": "Abu Dhabi",
+      "data_source": "fines_data.json"
+    },
+    {
+      "id": "sharjah",
+      "name": "Sharjah",
+      "data_source": "fines_data.json"
+    },
+    {
+      "id": "ajman",
+      "name": "Ajman",
+      "data_source": "fines_data.json"
+    },
+    {
+      "id": "rak",
+      "name": "Ras Al Khaimah",
+      "data_source": "fines_data.json"
+    },
+    {
+      "id": "fujairah",
+      "name": "Fujairah",
+      "data_source": "fines_data.json"
+    },
+    {
+      "id": "uaq",
+      "name": "Umm Al Quwain",
+      "data_source": "fines_data.json"
+    }
+  ]
+}
