@@ -1,24 +1,24 @@
 {
-  "dubai": {
-    "state_name": "Dubai",
-    "fines": [
-      {
-        "violation": "Exceeding Speed Limit",
-        "description": "Over 20km/h limit",
-        "amount": "AED 600",
-        "points": "0 BLACK POINTS",
-        "warning": null,
-        "icon_type": "distance",
-        "icon_color": "#ff6b6b"
-      },
-      {
-        "violation": "Jumping Red Light",
-        "description": "Light vehicle violation",
-        "amount": "AED 1,000",
-        "points": "13 BLACK POINTS",
-        "warning": "Vehicle will be impounded for 30 days.",
-        "icon_type": "gavel",
-        "icon_color": "#fa9e05"
-      }
-    ]
-  
+  "state_id": "dubai",
+  "state_name": "Dubai",
+  "fines": [
+    {
+      "violation": "Exceeding Speed Limit",
+      "description": "Over 20km/h limit",
+      "amount": "AED 600",
+      "points": "0 BLACK POINTS",
+      "warning": null,
+      "icon_type": "distance",
+      "icon_color": "#ff6b6b"
+    },
+    {
+      "violation": "Jumping Red Light",
+      "description": "Light vehicle violation",
+      "amount": "AED 1,000",
+      "points": "12 BLACK POINTS",
+      "warning": "Vehicle will be impounded for 30 days.",
+      "icon_type": "gavel",
+      "icon_color": "#fa9e05"
+    }
+  ]
+}
