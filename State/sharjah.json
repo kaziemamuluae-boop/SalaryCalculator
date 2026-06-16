@@ -1,0 +1,15 @@
+{
+  "state_id": "sharjah",
+  "state_name": "Sharjah",
+  "fines": [
+    {
+      "violation": "Illegal Parking",
+      "description": "Blocking traffic",
+      "amount": "AED 500",
+      "points": "0 BLACK POINTS",
+      "warning": null,
+      "icon_type": "info",
+      "icon_color": "#ffd93d"
+    }
+  ]
+}
