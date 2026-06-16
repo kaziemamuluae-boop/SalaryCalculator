@@ -1,39 +1,11 @@
 {
   "states": [
-    {
-      "id": "dubai",
-      "name": "Dubai",
-      "data_source": "https://salarycalculator.kaziemamuluae.workers.dev/State/dubai.json"
-    },
-    {
-      "id": "abu_dhabi",
-      "name": "Abu Dhabi",
-      "data_source": "fines_data.json"
-    },
-    {
-      "id": "sharjah",
-      "name": "Sharjah",
-      "data_source": "fines_data.json"
-    },
-    {
-      "id": "ajman",
-      "name": "Ajman",
-      "data_source": "fines_data.json"
-    },
-    {
-      "id": "rak",
-      "name": "Ras Al Khaimah",
-      "data_source": "fines_data.json"
-    },
-    {
-      "id": "fujairah",
-      "name": "Fujairah",
-      "data_source": "fines_data.json"
-    },
-    {
-      "id": "uaq",
-      "name": "Umm Al Quwain",
-      "data_source": "fines_data.json"
-    }
+    { "id": "dubai", "name": "Dubai", "url": "https://salarycalculator.kaziemamuluae.workers.dev/State/dubai.json" },
+    { "id": "abu_dhabi", "name": "Abu Dhabi", "url": "https://salarycalculator.kaziemamuluae.workers.dev/State/abu_dhabi.json" },
+    { "id": "sharjah", "name": "Sharjah", "url": "https://salarycalculator.kaziemamuluae.workers.dev/State/sharjah.json" },
+    { "id": "ajman", "name": "Ajman", "url": "https://salarycalculator.kaziemamuluae.workers.dev/State/ajman.json" },
+    { "id": "rak", "name": "Ras Al Khaimah", "url": "https://salarycalculator.kaziemamuluae.workers.dev/State/rak.json" },
+    { "id": "fujairah", "name": "Fujairah", "url": "https://salarycalculator.kaziemamuluae.workers.dev/State/fujairah.json" },
+    { "id": "uaq", "name": "Umm Al Quwain", "url": "https://salarycalculator.kaziemamuluae.workers.dev/State/uaq.json" }
   ]
 }
