@@ -1,0 +1,15 @@
+{
+  "state_id": "abu_dhabi",
+  "state_name": "Abu Dhabi",
+  "fines": [
+    {
+      "violation": "Speeding (No Buffer)",
+      "description": "Exceeding posted limit",
+      "amount": "AED 300",
+      "points": "0 BLACK POINTS",
+      "warning": "Abu Dhabi has no 20km/h buffer.",
+      "icon_type": "distance",
+      "icon_color": "#ff6b6b"
+    }
+  ]
+}
