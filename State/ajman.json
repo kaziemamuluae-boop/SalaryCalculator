@@ -1,0 +1,15 @@
+{
+  "state_id": "ajman",
+  "state_name": "Ajman",
+  "fines": [
+    {
+      "violation": "General Violation",
+      "description": "Federal traffic law",
+      "amount": "AED 400",
+      "points": "4 BLACK POINTS",
+      "warning": null,
+      "icon_type": "info",
+      "icon_color": "#06c4f9"
+    }
+  ]
+}
