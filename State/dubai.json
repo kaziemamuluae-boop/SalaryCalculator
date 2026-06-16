@@ -22,7 +22,7 @@
       }
     ]
   },
-  "abu_dhabi": {
+  "dubai": {
     "state_name": "Abu Dhabi",
     "fines": [
       {
@@ -36,7 +36,7 @@
       }
     ]
   },
-  "sharjah": {
+  "dubai": {
     "state_name": "Sharjah",
     "fines": [
       {
@@ -50,7 +50,7 @@
       }
     ]
   },
-  "ajman": {
+  "dubai": {
     "state_name": "Ajman",
     "fines": [
       {
@@ -64,7 +64,7 @@
       }
     ]
   },
-  "rak": {
+  "dubai": {
     "state_name": "Ras Al Khaimah",
     "fines": [
       {
@@ -78,7 +78,7 @@
       }
     ]
   },
-  "fujairah": {
+  "dubai": {
     "state_name": "Fujairah",
     "fines": [
       {
@@ -92,7 +92,7 @@
       }
     ]
   },
-  "uaq": {
+  "dubai": {
     "state_name": "Umm Al Quwain",
     "fines": [
       {
